@@ -1,2 +1,3 @@
-# photo_sorter
-Pet project for sort my media
+# ETL for ml
+#
+#slkill of extract< transform, load and analytic
